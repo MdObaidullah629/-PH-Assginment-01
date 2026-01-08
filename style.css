@@ -242,7 +242,7 @@ header {
 
 
 /* FOOTER */
-/* .footer {
+.footer {
     background: #051622;
     color: white;
     padding: 80px 0 20px;
@@ -259,4 +259,4 @@ header {
     padding-top: 20px;
     text-align: center;
     font-size: 12px;
-} */
+}
