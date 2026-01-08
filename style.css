@@ -137,7 +137,7 @@ header {
 }
 
 
-/* ৪. PROBLEM SECTION */
+/* PROBLEM SECTION */
 .problems { padding: 100px 0; text-align: center; }
 
 .section-title { font-size: 36px; margin-bottom: 10px; }
@@ -168,7 +168,9 @@ header {
     font-size: 24px;
 }
 
-.red-bg { background: rgba(249, 85, 85, 1); }
+.red-bg { 
+    background: rgba(249, 85, 85, 1);
+ }
 
 
 /* rgba(249, 85, 85, 1); */
@@ -234,7 +236,9 @@ header {
     font-size: 12;
 }
 
-.small-text { font-size: 12px; color: #999; margin-top: 15px; }
+.small-text { font-size: 12px; 
+    color: #999;
+     margin-top: 15px; }
 
 
 /* FOOTER */
